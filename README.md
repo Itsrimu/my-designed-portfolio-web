@@ -26,17 +26,5 @@ My  personal portfolio website built with React.
    npm run build
    ```
 
-## Folder Structure
 
-```
-myportfolio/
-  ├── public/
-  ├── src/
-  │   ├── Components/
-  │   ├── pdf/
-  │   └── ...
-  ├── .gitignore
-  ├── README.md
-  └── package.json
-```
 
