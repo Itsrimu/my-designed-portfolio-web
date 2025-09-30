@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/resume.pdf";
+import pdf from "../pdf/Resume.pdf";
 import hero from "./Data/hero.json";
 import Typed from "typed.js";
 
@@ -9,9 +9,9 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is John Doe",
-        "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "My Name is Khairun Nessa Nazmin",
+        "I'm Front-End developer",
+        "Graphic Designer",
       ],
       typeSpeed: 50,
       backSpeed: 50,

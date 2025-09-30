@@ -1,41 +1,41 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "role": "Graphic Design Intern",
+    "organisation": "Vijayawada Innovative Technology Development Hub Pvt. Ltd.",
+    "startDate": "Sep, 2025",
+    "endDate": "Dec, 2025",
+    "location": "Vijayawada, India",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Created UI/UX assets, digital graphics, and layouts using Canva and Figma",
+      "Assisted in enhancing website interfaces and maintaining branding consistency"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/VIT-HUB.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Frontend Developer Internship & Skill Development",
+    "organisation": "Edunet Foundation",
+    "startDate": "Aug, 2025",
+    "endDate": "Sep, 2025",
+    "location": "Remote, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Built a Recipe Finder Web App using JavaScript, HTML, and CSS",
+      "Earned certification in IBM's front-end development course"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/edunet.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "AI Transformative Learning Internship & Skill Development",
+    "organisation": "TechSaksham (Edunet Foundation)",
+    "startDate": "Jun, 2025",
+    "endDate": "March, 2025",
+    "location": "Remote, India",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Developed an AI-powered health assistant chatbot using Hugging Face API",
+      "Collaborated in a team to prototype and deploy AI-driven features"
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/edunet.png"
   }
 ]

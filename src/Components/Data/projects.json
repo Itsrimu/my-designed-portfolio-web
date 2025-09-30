@@ -1,34 +1,36 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Phishing Detection Browser Extension",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/08/25/12/45/phishing-6573326_1280.png",
+    "description": "A real-time phishing detection browser extension built using ML models and feature extraction techniques.",
+    "demo": "https://github.com/Itsrimu/Phishing-Extension-Using-ML",
+    "source": "https://github.com/Itsrimu/Phishing-Extension-Using-ML"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "AI-Powered Health Assistant Chatbot",
+    "imageSrc": "https://cdn.pixabay.com/photo/2023/01/15/17/44/robot-7720802_1280.jpg",
+    "description": "An AI chatbot providing health-related responses, integrating Hugging Face NLP models into a user-friendly interface.",
+    "demo": "https://github.com/Itsrimu/HealthCare-ChatBot",
+    "source": "https://github.com/Itsrimu/HealthCare-ChatBot"
   },
+
+
   {
     "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Education Website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/07/11/16/53/book-3531412_1280.jpg",
+    "description": "A responsive educational website designed and developed using HTML and CSS.",
+    "demo": "https://itsrimu.github.io/my-college-website/",
+    "source": "https://github.com/Itsrimu/my-college-website"
   },
   {
     "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Recipe Finder Web App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_640.jpg",
+    "description": "A frontend web application built with JavaScript, HTML, and CSS that allows users to search recipes with a responsive UI.",
+    "demo": "https://itsrimu.github.io/your-goto-recipe-finder/",
+    "source": "https://github.com/Itsrimu/your-goto-recipe-finder"
   }
 ]
